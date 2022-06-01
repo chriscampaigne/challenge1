@@ -6,3 +6,4 @@ Added semantic html
 Condensed css
 added alt images
 added comments
+https://chriscampaigne.github.io/challenge1/#search-engine-optimization
